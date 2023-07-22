@@ -251,9 +251,19 @@
   
   /* Header
       ============================= */
+      
   .header-container {
     display: flex;
     justify-content: space-between;
+  }
+  .header-logo{
+
+  }
+  .header-logo a{
+
+  }
+  .navbar-menu{
+    
   }
   .header {
     padding: var(--header-padding);
